@@ -1,9 +1,12 @@
 [submodule "PersonalProjects"]
 	path = PersonalProjects
 	url = git@github.com:SethBennett2523/PersonalProjects.git
+	branch = main
 [submodule "UWE-FSAI"]
 	path = UWE-FSAI
 	url = git@github.com:SethBennett2523/SethFSAI.git
+	branch = main
 [submodule "PortfolioSite"]
 	path = PortfolioSite
 	url = git@github.com:SethBennett2523/AboutMe.git
+	branch = main
