@@ -10,3 +10,6 @@
 	path = PortfolioSite
 	url = git@github.com:SethBennett2523/AboutMe.git
 	branch = main
+[submodule "UWE"]
+	path = UWE
+	url = git@github.com:SethBennett2523/UWE.git
