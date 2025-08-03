@@ -5,6 +5,14 @@
 I'm a student of Computer Science at the University of the West of England
 I am the President and Perception Lead at UWE-AI, which competes in IMechE's FSUK AI DDT Class
 
+## GitHub Stats
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SethBennett2523&show_icons=true&theme=dark)
+
+## Featured Project
+
+- **[Training Automation](https://github.com/SethBennett2523/TrainingAutomation/)** - A program to handle the automatic tuning of hyperparamaters for YOLO models to be used in UWE-AI's autonomous systems' perception systems; I don't remember this working well, but it did work.
+
 ## Technologies & Tools
 
 - **Programming/Scripting Languages:**
@@ -45,14 +53,6 @@ I am the President and Perception Lead at UWE-AI, which competes in IMechE's FSU
   - OpenCV
 - Pytorch
 - TensorFlow
-
-## GitHub Stats
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SethBennett2523&show_icons=true&theme=dark)
-
-## Featured Project
-
-- **[Training Automation](https://github.com/SethBennett2523/TrainingAutomation/)** - A program to handle the automatic tuning of hyperparamaters for YOLO models to be used in UWE-AI's autonomous systems' perception systems; I don't remember this working well, but it did work.
 
 ## How to Reach Me
 
