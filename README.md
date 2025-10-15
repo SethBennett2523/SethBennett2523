@@ -30,7 +30,7 @@ I am the President and Perception Lead at UWE-AI, which competes in IMechE's FSU
     - Java
     - Batch [1]
     - PowerShell
-  - **The ones I've used at least once but for big projects:**
+  - **The ones I've used at least once but not for big projects:**
     - Haskell
     - Ruby
     - Rust
