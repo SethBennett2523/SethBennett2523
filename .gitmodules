@@ -13,3 +13,4 @@
 [submodule "UWE"]
 	path = UWE
 	url = git@github.com:SethBennett2523/UWE.git
+	branch = main
