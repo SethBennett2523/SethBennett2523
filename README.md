@@ -9,10 +9,6 @@ I am the President and Perception Lead at UWE-AI, which competes in IMechE's FSU
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SethBennett2523&show_icons=true&theme=dark)
 
-## Featured Project
-
-- **[Training Automation](https://github.com/SethBennett2523/TrainingAutomation/)** - A program to handle the automatic tuning of hyperparamaters for YOLO models to be used in UWE-AI's autonomous systems' perception systems; I don't remember this working well, but it did work.
-
 ## Technologies & Tools
 
 - **Programming/Scripting Languages:**
@@ -30,6 +26,7 @@ I am the President and Perception Lead at UWE-AI, which competes in IMechE's FSU
     - Java
     - Batch [1]
     - PowerShell
+    - Nix
   - **The ones I've used at least once but not for big projects:**
     - Haskell
     - Ruby
@@ -41,6 +38,7 @@ I am the President and Perception Lead at UWE-AI, which competes in IMechE's FSU
     - AHK
 - **Other Tools:**
   - **Proficient:**
+    - Linux / \*nix 
     - Git
     - ROS [1]
   - **Competent:**
@@ -58,7 +56,6 @@ I am the President and Perception Lead at UWE-AI, which competes in IMechE's FSU
 
 - [LinkedIn](https://www.linkedin.com/in/seth-bennett-531158315/): Please don't
 - Email: [thomas12.bennett@live.uwe.ac.uk]
-- Website: [Bad, Work in progress](https://sethbennett2523.github.io/AboutMe/)
 
 ## Fun Fact
 
